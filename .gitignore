@@ -10,3 +10,4 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+http GET https://api-sandbox-monthly.procore.com/vapid/ companies token=10ed993a5226cc3ee8edbaf21f19abde2206
